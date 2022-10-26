@@ -1,1 +1,1 @@
-Here is where you can put some introductions or tutorial.
+This is a function to predict the sweetness of the potatoes only based on their appearances.
